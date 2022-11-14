@@ -18,11 +18,6 @@ public class loadding_page extends AppCompatActivity {
 
     int counter =0;
 
-
-
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
