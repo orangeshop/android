@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/choeyeongho/.gradle/daemon/7.4/com.example.android.app-mergeDebugResources-42:/layout/loadding_page.xml",
+        "source": "/Users/choeyeongho/.gradle/daemon/7.4/com.example.android.app-main-45:/layout/loadding_page.xml"
+    },
+    {
+        "merged": "/Users/choeyeongho/.gradle/daemon/7.4/com.example.android.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "/Users/choeyeongho/.gradle/daemon/7.4/com.example.android.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/choeyeongho/.gradle/daemon/7.4/com.example.android.app-mergeDebugResources-42:/layout/fragment_notifications.xml",
+        "source": "/Users/choeyeongho/.gradle/daemon/7.4/com.example.android.app-main-45:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "/Users/choeyeongho/.gradle/daemon/7.4/com.example.android.app-mergeDebugResources-42:/layout/fragment_dashboard.xml",
+        "source": "/Users/choeyeongho/.gradle/daemon/7.4/com.example.android.app-main-45:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/Users/choeyeongho/.gradle/daemon/7.4/com.example.android.app-mergeDebugResources-42:/layout/fragment_home.xml",
+        "source": "/Users/choeyeongho/.gradle/daemon/7.4/com.example.android.app-main-45:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.android.app-mergeDebugResources-42:/layout/fragment_home.xml",
+        "source": "com.example.android.app-main-45:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/choeyeongho/.gradle/daemon/7.4/com.example.android.app-mergeDebugResources-42:/layout/activity_custom_dialog.xml",
+        "source": "/Users/choeyeongho/.gradle/daemon/7.4/com.example.android.app-main-45:/layout/activity_custom_dialog.xml"
+    }
+]
